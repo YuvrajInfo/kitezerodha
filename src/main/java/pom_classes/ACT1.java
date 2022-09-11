@@ -22,5 +22,6 @@ public class ACT1 {
 	}
 	public void clickLB(){
 		LB.click();
+		System.out.println("Yuvraj");
 	}
 }
